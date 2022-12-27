@@ -84,5 +84,5 @@ IN ('Green', 'Orange', 'Blue');
 -- Select all the people in the person table where their favorite color is yellow or purple (use IN).
 
 SELECT * FROM person
-WHERE favorite_color 
+WHERE favorite_color
 IN ('Yellow', 'Purple');
